@@ -1,0 +1,20 @@
+{
+  "name": "hoetmaaiers.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "./node_modules/.bin/generate-md --layout github --input ./index.md --output ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hoetmaaiers/hoetmaaiers.github.io.git"
+  },
+  "keywords": [],
+  "author": "Robin Houdmeyers <houdmeyers@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hoetmaaiers/hoetmaaiers.github.io/issues"
+  },
+  "homepage": "https://github.com/hoetmaaiers/hoetmaaiers.github.io"
+}
